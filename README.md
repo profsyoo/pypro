@@ -1,2 +1,2 @@
 # pypro
-Python Programming
+Python Programming for freshmen in Electrical Engineering
